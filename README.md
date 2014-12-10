@@ -8,7 +8,7 @@ Comprehensive solution for downloading, searching and managing torrents on Andro
 
 Code will be made public soon.
 
-Download build 1.0 - https://mega.co.nz/#!Iw5gVBQD
+Download build 1.0 - https://mega.co.nz/#!Iw5gVBQD!nYOOLKHVaUS9E_jLf0LaducGT_a2dyreQOGlGOIV9Hw
 
 This application supports most currently used versions of Android, precisely Android 2.3 Gingerbread to Android 5.0.1 Lollipop. Capable of supporting more than 99% of active Android devices. 
 
